@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMoviesTry2</string>
+    <string name="poster">Poster</string>
+    <string name="films">Black backgroung</string>
+    <string name="serial">White background</string>
+    <string name="Title">Title</string>
+    <string name="OriginalTitle">Original title</string>
+    <string name="Raiting">Raiting</string>
+    <string name="Year">Year</string>
+    <string name="Description">Description:</string>
+    <string name="Main">Mail</string>
+    <string name="Favourite">Favourite</string>
+</resources>

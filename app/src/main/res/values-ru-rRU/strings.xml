@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMoviesTry2</string>
+    <string name="poster">Постер к фильму</string>
+    <string name="films">Черный фон</string>
+    <string name="serial">Белый фон</string>
+    <string name="Title">Нзавание</string>
+    <string name="OriginalTitle">Оригинальное название</string>
+    <string name="Raiting">Рейтинг</string>
+    <string name="Year">Год выхода</string>
+    <string name="Description">Описание:</string>
+    <string name="Main">Главная</string>
+    <string name="Favourite">Избранное</string>
+</resources>
